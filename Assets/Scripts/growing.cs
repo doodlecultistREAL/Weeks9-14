@@ -7,6 +7,9 @@ public class growing : MonoBehaviour
     
 {
 
+
+   
+
     //came in late, couldn't get it to work. Gonna try again in my own time when the tutorials are out.
 /*
     public Transform apple;
